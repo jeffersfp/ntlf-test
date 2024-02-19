@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <>
       <h1>Hello world!</h1>
-      <p>New message.</p>
+      <p>This is a Gatsby site.</p>
     </>
   )
 }
